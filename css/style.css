@@ -16,7 +16,6 @@ body {
     margin-left: 18px;
     margin-right: 900px;
     vertical-align: middle;
-    /* font-family: "Helvetica"; */
 }
 
 .logo a {
@@ -58,7 +57,6 @@ body {
     font-size: 24px;
     line-height: 20px;
     color: #202124;
-    /* font-family: "Helvetica"; */
 }
 
 .section1_images {
@@ -81,7 +79,6 @@ body {
     font-size: 16px;
     line-height: 20px;
     color: #ffffff;
-    /* font-family: "Helvetica"; */
 }
 
 .section1_paragraph{
@@ -95,7 +92,6 @@ body {
     margin-right: 40px;
     margin-top: -3px;
     padding: 70px 40px;
-    /* font-family: "Acumin Pro";     */
 }
 
 /* Section2 - HAPPENING NOW */
@@ -108,7 +104,6 @@ body {
     font-size: 24px;
     line-height: 20px;
     color: #202124;
-    /* font-family: "Helvetica";     */
 }
 
 .section2_images {
@@ -127,7 +122,6 @@ body {
     font-size: 16px;
     line-height: 20px;
     color: #ffffff;
-    /* font-family: "Helvetica"; */
 }
 
 .section2_image2_div {
@@ -147,7 +141,6 @@ body {
     font-size: 16px;
     line-height: 20px;
     color: #ffffff;
-    /* font-family: "Helvetica"; */
 }
 
 .section2_image3 {
